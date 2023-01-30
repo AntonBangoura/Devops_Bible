@@ -1,6 +1,9 @@
 <p align="center"><img src="images/devops_exercises.png"/></p>
 
-:information_source: &nbsp;This repo contains questions and exercises on various technical topics, sometimes related to DevOps and SRE
+As a cloud security engineer, it is mandatory to have a wide understanding of DevOps process and technologies. Here a repository that i highly reccomend.
+
+Cheers!
+:information_source: &nbsp;This repo contains questions and exercises on various technical topics, sometimes related to DevOps and SRE. 
 
 :bar_chart: &nbsp;There are currently **2619** exercises and questions
 
